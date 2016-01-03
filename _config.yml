@@ -1,0 +1,28 @@
+name: Andoreza Studios
+favicon: null
+layout_spectrum: 0.19772046222351491
+typography_spectrum: 0.7697635560762137
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8820145656354725
+  lightness: 0.06976992497220635
+  saturation: 0.02858601207844913
+  rhythmicContrast: 0.2565351855009794
+purpose: []
